@@ -6,7 +6,9 @@
 Welcome to RealWorld. RealWorld offers a diverse and enjoyable gaming experience to users through its proprietary FiveM server framework. Engage with fellow players, share information, and immerse yourself in role-playing (RP) adventures. Realize your desired second life within RealWorld. We leverage the latest game development technologies to create creative gaming content and provide users with various updates.
 
 ## 🌟 Useful website links
-https://www.realw.co
+- Website: https://www.realw.co
+- Discord: https://discord.gg/rw
+- Youtube: https://www.youtube.com/realw
 
 ## 🏆 Github Statistics
 <p align="center">
