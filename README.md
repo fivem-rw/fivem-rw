@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="240" height="240" src="https://server-static.realw.co/logo/v2/logo_default.png">
+  <img width="240" height="240" src="https://static.realw.co/logo/v2/logo_default.png">
 </p>
 
 ## 🎉 About us
